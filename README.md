@@ -29,4 +29,3 @@ a number (e.g: it returns `100` for `'100'`).
 equivalent ms is returned.
 
 
-
