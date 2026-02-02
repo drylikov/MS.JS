@@ -1,5 +1,4 @@
-
-# ms.js: miliseconds conversion utility
+# MS.JS: miliseconds conversion utility .
 
 ```js
 ms('1d')      // 86400000
