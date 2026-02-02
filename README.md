@@ -27,4 +27,3 @@ ms(ms('10 hours', { long: true }))    // "10 hours"
 a number (e.g: it returns `100` for `'100'`).
 - If you pass a string with a number and a valid unit, the number of
 equivalent ms is returned.
-
